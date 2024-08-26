@@ -1,0 +1,15 @@
+C:\Users\Olguhan\Documents\GitHub\BackendTemelEgitimiDerslerAcunMedyaAkademi\HomeWork18_08_2024\Homework18\bin\Debug\net8.0\HomeWork18.exe
+C:\Users\Olguhan\Documents\GitHub\BackendTemelEgitimiDerslerAcunMedyaAkademi\HomeWork18_08_2024\Homework18\bin\Debug\net8.0\HomeWork18.deps.json
+C:\Users\Olguhan\Documents\GitHub\BackendTemelEgitimiDerslerAcunMedyaAkademi\HomeWork18_08_2024\Homework18\bin\Debug\net8.0\HomeWork18.runtimeconfig.json
+C:\Users\Olguhan\Documents\GitHub\BackendTemelEgitimiDerslerAcunMedyaAkademi\HomeWork18_08_2024\Homework18\bin\Debug\net8.0\HomeWork18.dll
+C:\Users\Olguhan\Documents\GitHub\BackendTemelEgitimiDerslerAcunMedyaAkademi\HomeWork18_08_2024\Homework18\bin\Debug\net8.0\HomeWork18.pdb
+C:\Users\Olguhan\Documents\GitHub\BackendTemelEgitimiDerslerAcunMedyaAkademi\HomeWork18_08_2024\Homework18\obj\Debug\net8.0\HomeWork18.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Olguhan\Documents\GitHub\BackendTemelEgitimiDerslerAcunMedyaAkademi\HomeWork18_08_2024\Homework18\obj\Debug\net8.0\HomeWork18.AssemblyInfoInputs.cache
+C:\Users\Olguhan\Documents\GitHub\BackendTemelEgitimiDerslerAcunMedyaAkademi\HomeWork18_08_2024\Homework18\obj\Debug\net8.0\HomeWork18.AssemblyInfo.cs
+C:\Users\Olguhan\Documents\GitHub\BackendTemelEgitimiDerslerAcunMedyaAkademi\HomeWork18_08_2024\Homework18\obj\Debug\net8.0\HomeWork18.csproj.CoreCompileInputs.cache
+C:\Users\Olguhan\Documents\GitHub\BackendTemelEgitimiDerslerAcunMedyaAkademi\HomeWork18_08_2024\Homework18\obj\Debug\net8.0\HomeWork18.sourcelink.json
+C:\Users\Olguhan\Documents\GitHub\BackendTemelEgitimiDerslerAcunMedyaAkademi\HomeWork18_08_2024\Homework18\obj\Debug\net8.0\HomeWork18.dll
+C:\Users\Olguhan\Documents\GitHub\BackendTemelEgitimiDerslerAcunMedyaAkademi\HomeWork18_08_2024\Homework18\obj\Debug\net8.0\refint\HomeWork18.dll
+C:\Users\Olguhan\Documents\GitHub\BackendTemelEgitimiDerslerAcunMedyaAkademi\HomeWork18_08_2024\Homework18\obj\Debug\net8.0\HomeWork18.pdb
+C:\Users\Olguhan\Documents\GitHub\BackendTemelEgitimiDerslerAcunMedyaAkademi\HomeWork18_08_2024\Homework18\obj\Debug\net8.0\HomeWork18.genruntimeconfig.cache
+C:\Users\Olguhan\Documents\GitHub\BackendTemelEgitimiDerslerAcunMedyaAkademi\HomeWork18_08_2024\Homework18\obj\Debug\net8.0\ref\HomeWork18.dll
