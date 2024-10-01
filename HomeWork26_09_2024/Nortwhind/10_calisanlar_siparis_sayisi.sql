@@ -1,0 +1,1 @@
+SELECT EmployeeID, COUNT(*) AS TotalOrders FROM Orders GROUP BY EmployeeID;

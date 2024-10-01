@@ -1,0 +1,1 @@
+SELECT ShipperID, COUNT(*) AS ShippedOrders FROM Orders GROUP BY ShipperID;
