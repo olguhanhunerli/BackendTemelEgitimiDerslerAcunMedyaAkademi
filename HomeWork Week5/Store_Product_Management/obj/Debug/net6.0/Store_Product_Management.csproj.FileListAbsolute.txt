@@ -1,0 +1,14 @@
+C:\Users\Olguhan\Downloads\Yeni klasör\Store_Product_Management\bin\Debug\net6.0\Store_Product_Management.exe
+C:\Users\Olguhan\Downloads\Yeni klasör\Store_Product_Management\bin\Debug\net6.0\Store_Product_Management.deps.json
+C:\Users\Olguhan\Downloads\Yeni klasör\Store_Product_Management\bin\Debug\net6.0\Store_Product_Management.runtimeconfig.json
+C:\Users\Olguhan\Downloads\Yeni klasör\Store_Product_Management\bin\Debug\net6.0\Store_Product_Management.dll
+C:\Users\Olguhan\Downloads\Yeni klasör\Store_Product_Management\bin\Debug\net6.0\Store_Product_Management.pdb
+C:\Users\Olguhan\Downloads\Yeni klasör\Store_Product_Management\obj\Debug\net6.0\Store_Product_Management.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Olguhan\Downloads\Yeni klasör\Store_Product_Management\obj\Debug\net6.0\Store_Product_Management.AssemblyInfoInputs.cache
+C:\Users\Olguhan\Downloads\Yeni klasör\Store_Product_Management\obj\Debug\net6.0\Store_Product_Management.AssemblyInfo.cs
+C:\Users\Olguhan\Downloads\Yeni klasör\Store_Product_Management\obj\Debug\net6.0\Store_Product_Management.csproj.CoreCompileInputs.cache
+C:\Users\Olguhan\Downloads\Yeni klasör\Store_Product_Management\obj\Debug\net6.0\Store_Product_Management.dll
+C:\Users\Olguhan\Downloads\Yeni klasör\Store_Product_Management\obj\Debug\net6.0\refint\Store_Product_Management.dll
+C:\Users\Olguhan\Downloads\Yeni klasör\Store_Product_Management\obj\Debug\net6.0\Store_Product_Management.pdb
+C:\Users\Olguhan\Downloads\Yeni klasör\Store_Product_Management\obj\Debug\net6.0\Store_Product_Management.genruntimeconfig.cache
+C:\Users\Olguhan\Downloads\Yeni klasör\Store_Product_Management\obj\Debug\net6.0\ref\Store_Product_Management.dll

@@ -1,0 +1,14 @@
+C:\Users\Olguhan\Downloads\Yeni klasör\Zoological_Application\bin\Debug\net6.0\Zoological_Application.exe
+C:\Users\Olguhan\Downloads\Yeni klasör\Zoological_Application\bin\Debug\net6.0\Zoological_Application.deps.json
+C:\Users\Olguhan\Downloads\Yeni klasör\Zoological_Application\bin\Debug\net6.0\Zoological_Application.runtimeconfig.json
+C:\Users\Olguhan\Downloads\Yeni klasör\Zoological_Application\bin\Debug\net6.0\Zoological_Application.dll
+C:\Users\Olguhan\Downloads\Yeni klasör\Zoological_Application\bin\Debug\net6.0\Zoological_Application.pdb
+C:\Users\Olguhan\Downloads\Yeni klasör\Zoological_Application\obj\Debug\net6.0\Zoological_Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Olguhan\Downloads\Yeni klasör\Zoological_Application\obj\Debug\net6.0\Zoological_Application.AssemblyInfoInputs.cache
+C:\Users\Olguhan\Downloads\Yeni klasör\Zoological_Application\obj\Debug\net6.0\Zoological_Application.AssemblyInfo.cs
+C:\Users\Olguhan\Downloads\Yeni klasör\Zoological_Application\obj\Debug\net6.0\Zoological_Application.csproj.CoreCompileInputs.cache
+C:\Users\Olguhan\Downloads\Yeni klasör\Zoological_Application\obj\Debug\net6.0\Zoological_Application.dll
+C:\Users\Olguhan\Downloads\Yeni klasör\Zoological_Application\obj\Debug\net6.0\refint\Zoological_Application.dll
+C:\Users\Olguhan\Downloads\Yeni klasör\Zoological_Application\obj\Debug\net6.0\Zoological_Application.pdb
+C:\Users\Olguhan\Downloads\Yeni klasör\Zoological_Application\obj\Debug\net6.0\Zoological_Application.genruntimeconfig.cache
+C:\Users\Olguhan\Downloads\Yeni klasör\Zoological_Application\obj\Debug\net6.0\ref\Zoological_Application.dll

@@ -1,0 +1,4 @@
+C:\Users\Olguhan\Downloads\Yeni klasör\Calculator\obj\Debug\net6.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Olguhan\Downloads\Yeni klasör\Calculator\obj\Debug\net6.0\Calculator.AssemblyInfoInputs.cache
+C:\Users\Olguhan\Downloads\Yeni klasör\Calculator\obj\Debug\net6.0\Calculator.AssemblyInfo.cs
+C:\Users\Olguhan\Downloads\Yeni klasör\Calculator\obj\Debug\net6.0\Calculator.csproj.CoreCompileInputs.cache

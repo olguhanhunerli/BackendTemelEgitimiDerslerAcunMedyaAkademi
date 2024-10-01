@@ -1,0 +1,4 @@
+C:\Users\Olguhan\Downloads\Yeni klasör\Educational_Institution_Application\obj\Debug\net6.0\Educational_Institution_Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Olguhan\Downloads\Yeni klasör\Educational_Institution_Application\obj\Debug\net6.0\Educational_Institution_Application.AssemblyInfoInputs.cache
+C:\Users\Olguhan\Downloads\Yeni klasör\Educational_Institution_Application\obj\Debug\net6.0\Educational_Institution_Application.AssemblyInfo.cs
+C:\Users\Olguhan\Downloads\Yeni klasör\Educational_Institution_Application\obj\Debug\net6.0\Educational_Institution_Application.csproj.CoreCompileInputs.cache

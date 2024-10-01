@@ -1,0 +1,14 @@
+C:\Users\Olguhan\Downloads\Yeni klasör\Game_Characters\bin\Debug\net6.0\Game_Characters.exe
+C:\Users\Olguhan\Downloads\Yeni klasör\Game_Characters\bin\Debug\net6.0\Game_Characters.deps.json
+C:\Users\Olguhan\Downloads\Yeni klasör\Game_Characters\bin\Debug\net6.0\Game_Characters.runtimeconfig.json
+C:\Users\Olguhan\Downloads\Yeni klasör\Game_Characters\bin\Debug\net6.0\Game_Characters.dll
+C:\Users\Olguhan\Downloads\Yeni klasör\Game_Characters\bin\Debug\net6.0\Game_Characters.pdb
+C:\Users\Olguhan\Downloads\Yeni klasör\Game_Characters\obj\Debug\net6.0\Game_Characters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Olguhan\Downloads\Yeni klasör\Game_Characters\obj\Debug\net6.0\Game_Characters.AssemblyInfoInputs.cache
+C:\Users\Olguhan\Downloads\Yeni klasör\Game_Characters\obj\Debug\net6.0\Game_Characters.AssemblyInfo.cs
+C:\Users\Olguhan\Downloads\Yeni klasör\Game_Characters\obj\Debug\net6.0\Game_Characters.csproj.CoreCompileInputs.cache
+C:\Users\Olguhan\Downloads\Yeni klasör\Game_Characters\obj\Debug\net6.0\Game_Characters.dll
+C:\Users\Olguhan\Downloads\Yeni klasör\Game_Characters\obj\Debug\net6.0\refint\Game_Characters.dll
+C:\Users\Olguhan\Downloads\Yeni klasör\Game_Characters\obj\Debug\net6.0\Game_Characters.pdb
+C:\Users\Olguhan\Downloads\Yeni klasör\Game_Characters\obj\Debug\net6.0\Game_Characters.genruntimeconfig.cache
+C:\Users\Olguhan\Downloads\Yeni klasör\Game_Characters\obj\Debug\net6.0\ref\Game_Characters.dll

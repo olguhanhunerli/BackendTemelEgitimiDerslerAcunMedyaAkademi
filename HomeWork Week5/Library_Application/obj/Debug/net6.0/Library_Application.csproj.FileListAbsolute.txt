@@ -1,0 +1,14 @@
+C:\Users\Olguhan\Downloads\Yeni klasör\Library_Application\bin\Debug\net6.0\Library_Application.exe
+C:\Users\Olguhan\Downloads\Yeni klasör\Library_Application\bin\Debug\net6.0\Library_Application.deps.json
+C:\Users\Olguhan\Downloads\Yeni klasör\Library_Application\bin\Debug\net6.0\Library_Application.runtimeconfig.json
+C:\Users\Olguhan\Downloads\Yeni klasör\Library_Application\bin\Debug\net6.0\Library_Application.dll
+C:\Users\Olguhan\Downloads\Yeni klasör\Library_Application\bin\Debug\net6.0\Library_Application.pdb
+C:\Users\Olguhan\Downloads\Yeni klasör\Library_Application\obj\Debug\net6.0\Library_Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Olguhan\Downloads\Yeni klasör\Library_Application\obj\Debug\net6.0\Library_Application.AssemblyInfoInputs.cache
+C:\Users\Olguhan\Downloads\Yeni klasör\Library_Application\obj\Debug\net6.0\Library_Application.AssemblyInfo.cs
+C:\Users\Olguhan\Downloads\Yeni klasör\Library_Application\obj\Debug\net6.0\Library_Application.csproj.CoreCompileInputs.cache
+C:\Users\Olguhan\Downloads\Yeni klasör\Library_Application\obj\Debug\net6.0\Library_Application.dll
+C:\Users\Olguhan\Downloads\Yeni klasör\Library_Application\obj\Debug\net6.0\refint\Library_Application.dll
+C:\Users\Olguhan\Downloads\Yeni klasör\Library_Application\obj\Debug\net6.0\Library_Application.pdb
+C:\Users\Olguhan\Downloads\Yeni klasör\Library_Application\obj\Debug\net6.0\Library_Application.genruntimeconfig.cache
+C:\Users\Olguhan\Downloads\Yeni klasör\Library_Application\obj\Debug\net6.0\ref\Library_Application.dll

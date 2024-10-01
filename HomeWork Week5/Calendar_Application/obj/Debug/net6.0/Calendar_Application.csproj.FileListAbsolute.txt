@@ -1,0 +1,4 @@
+C:\Users\Olguhan\Downloads\Yeni klasör\Calendar_Application\obj\Debug\net6.0\Calendar_Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Olguhan\Downloads\Yeni klasör\Calendar_Application\obj\Debug\net6.0\Calendar_Application.AssemblyInfoInputs.cache
+C:\Users\Olguhan\Downloads\Yeni klasör\Calendar_Application\obj\Debug\net6.0\Calendar_Application.AssemblyInfo.cs
+C:\Users\Olguhan\Downloads\Yeni klasör\Calendar_Application\obj\Debug\net6.0\Calendar_Application.csproj.CoreCompileInputs.cache

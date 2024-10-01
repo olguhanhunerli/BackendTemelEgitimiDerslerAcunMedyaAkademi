@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Olguhan\\Desktop\\HomeWorks_29_08_2024\\07_switch_homework\\Soru4\\Soru4.csproj": {}
+    "C:\\Users\\Olguhan\\Documents\\GitHub\\BackendTemelEgitimiDerslerAcunMedyaAkademi\\HomeWorks_29_08_2024\\07_switch_homework\\Soru4\\Soru4.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Olguhan\\Desktop\\HomeWorks_29_08_2024\\07_switch_homework\\Soru4\\Soru4.csproj": {
+    "C:\\Users\\Olguhan\\Documents\\GitHub\\BackendTemelEgitimiDerslerAcunMedyaAkademi\\HomeWorks_29_08_2024\\07_switch_homework\\Soru4\\Soru4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Olguhan\\Desktop\\HomeWorks_29_08_2024\\07_switch_homework\\Soru4\\Soru4.csproj",
+        "projectUniqueName": "C:\\Users\\Olguhan\\Documents\\GitHub\\BackendTemelEgitimiDerslerAcunMedyaAkademi\\HomeWorks_29_08_2024\\07_switch_homework\\Soru4\\Soru4.csproj",
         "projectName": "Soru4",
-        "projectPath": "C:\\Users\\Olguhan\\Desktop\\HomeWorks_29_08_2024\\07_switch_homework\\Soru4\\Soru4.csproj",
+        "projectPath": "C:\\Users\\Olguhan\\Documents\\GitHub\\BackendTemelEgitimiDerslerAcunMedyaAkademi\\HomeWorks_29_08_2024\\07_switch_homework\\Soru4\\Soru4.csproj",
         "packagesPath": "C:\\Users\\Olguhan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Olguhan\\Desktop\\HomeWorks_29_08_2024\\07_switch_homework\\Soru4\\obj\\",
+        "outputPath": "C:\\Users\\Olguhan\\Documents\\GitHub\\BackendTemelEgitimiDerslerAcunMedyaAkademi\\HomeWorks_29_08_2024\\07_switch_homework\\Soru4\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Olguhan\\AppData\\Roaming\\NuGet\\NuGet.Config",
