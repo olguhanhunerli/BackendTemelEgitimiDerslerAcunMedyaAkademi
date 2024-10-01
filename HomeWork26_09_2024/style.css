@@ -1,0 +1,147 @@
+
+/* Temel Seçiciler */
+/* Belirli elementleri, sınıfları veya ID'leri seçerek stil uygular. */
+p {
+    color: blue; /* Tüm <p> etiketlerine mavi renk uygular */
+}
+
+.myClass {
+    background-color: yellow; /* .myClass sınıfına sahip öğelere sarı arka plan uygular */
+}
+
+#myId {
+    font-size: 20px; /* #myId ID'sine sahip öğelere 20px yazı boyutu uygular */
+}
+
+/* Birleşik Seçiciler */
+/* Belirli elementlerin, sınıf veya ID ile kombinasyonlarını seçer. */
+p.myClass {
+    color: green; /* Sadece <p> etiketlerine ve aynı zamanda .myClass sınıfına sahip olanlara yeşil renk uygular */
+}
+
+div#myId {
+    border: 1px solid black; /* Belirli ID'ye sahip <div> etiketine siyah kenarlık uygular */
+}
+
+/* Pseudo-class Seçiciler */
+/* Öğelerin belirli durumlarına (hover, focus, active vb.) göre stil uygular. */
+a:hover {
+    color: red; /* Bağlantı üzerine gelindiğinde (hover) kırmızı renk uygular */
+}
+
+input:focus {
+    border-color: blue; /* Input odaklandığında kenarlığı mavi yapar */
+}
+
+button:active {
+    background-color: grey; /* Butona tıklandığında arka plan rengini gri yapar */
+}
+
+/* Box Model ve Layout */
+/* İçerik, padding, border ve margin kullanarak kutu modelini düzenler. */
+.box {
+    width: 200px;
+    padding: 10px; /* İçerik ile kenarlık arasındaki boşluk */
+    border: 5px solid black; /* Kenarlık (border) */
+    margin: 20px; /* Dış boşluk (margin) */
+}
+
+/* Display Özellikleri */
+/* Öğenin belge akışındaki davranışını kontrol eder. */
+.block {
+    display: block; /* Tam genişlik kaplayan blok element */
+}
+
+.inline {
+    display: inline; /* Satır içi öğe */
+}
+
+.inline-block {
+    display: inline-block; /* Satır içi fakat genişlik ve yükseklik ayarlanabilen öğe */
+}
+
+.none {
+    display: none; /* Öğeyi gizler */
+}
+
+/* Positioning */
+/* Öğelerin belge üzerinde nasıl konumlanacağını ayarlar. */
+.relative {
+    position: relative; /* Normal konumuna göre göreceli yerleştirme */
+    top: 10px;
+}
+
+.absolute {
+    position: absolute; /* Üst öğesine göre mutlak konumlandırma */
+    top: 20px;
+}
+
+.fixed {
+    position: fixed; /* Ekrana sabitler ve kaydırma sırasında konumu değişmez */
+    top: 0;
+}
+
+.sticky {
+    position: sticky; /* Belirli bir noktaya kadar normal akışta, sonra sabitlenir */
+    top: 0;
+}
+
+/* Renkler ve Arka Planlar */
+/* Renkler ve arka planlar için çeşitli değer türleri (hex, rgb, hsl) kullanımı. */
+body {
+    color: #ff0000; /* Yazı rengi (Hex) */
+    background-color: rgb(255, 255, 0); /* Arka plan rengi (RGB) */
+    background-image: url('image.jpg'); /* Arka plan resmi */
+    background-size: cover; /* Resmi kaplayacak şekilde ölçeklendir */
+    background-repeat: no-repeat; /* Tekrarlama yok */
+    background-position: center; /* Arka planı ortala */
+}
+
+/* Yazı Tipleri ve Metin Stilleri */
+/* Yazı tipi, boyutu, kalınlığı, stili ve hizalaması gibi metin özelliklerini ayarlar. */
+p {
+    font-family: Arial, sans-serif; /* Yazı tipi */
+    font-size: 16px; /* Yazı boyutu */
+    font-weight: bold; /* Kalın yazı */
+    font-style: italic; /* İtalik yazı stili */
+    line-height: 1.5; /* Satır yüksekliği */
+}
+
+h1 {
+    text-align: center; /* Metni ortalar */
+    text-transform: uppercase; /* Tüm harfleri büyük yapar */
+    text-decoration: underline; /* Alt çizgi ekler */
+    letter-spacing: 2px; /* Harfler arasındaki boşluk */
+}
+
+/* Kenarlık Özellikleri */
+/* Kenarlık (border) ve köşe yuvarlatma (border-radius) ayarları */
+.box-border {
+    border: 2px solid red; /* Kırmızı kenarlık */
+    border-radius: 10px; /* Kenarları yuvarlatır */
+    border-width: 5px; /* Kenarlık genişliği */
+    border-style: dashed; /* Kesikli kenarlık stili */
+    border-color: blue; /* Kenarlık rengi mavi */
+}
+
+/* Margin ve Padding */
+/* Dış boşluk (margin) ve içerik ile kenarlık arasındaki boşluk (padding) ayarları */
+.box-margin-padding {
+    margin: 20px; /* Kutunun dışındaki boşluk */
+    padding: 10px; /* Kutunun içindeki boşluk */
+}
+
+/* Media Queries */
+/* Farklı ekran boyutlarına göre stil ayarlamaları */
+@media (max-width: 600px) {
+    body {
+        background-color: lightblue; /* Küçük ekranlarda arka plan rengi mavi */
+    }
+}
+
+/* Viewport Units */
+/* Viewport birimlerini kullanarak boyut ayarları */
+.box-viewport {
+    width: 50vw; /* Ekranın genişliğinin %50'si */
+    height: 50vh; /* Ekranın yüksekliğinin %50'si */
+}
