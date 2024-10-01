@@ -1,0 +1,14 @@
+C:\Users\Olguhan\Desktop\HomeWorks_29_08_2024\02_number_methods\Soru5\bin\Debug\net8.0\Soru5.exe
+C:\Users\Olguhan\Desktop\HomeWorks_29_08_2024\02_number_methods\Soru5\bin\Debug\net8.0\Soru5.deps.json
+C:\Users\Olguhan\Desktop\HomeWorks_29_08_2024\02_number_methods\Soru5\bin\Debug\net8.0\Soru5.runtimeconfig.json
+C:\Users\Olguhan\Desktop\HomeWorks_29_08_2024\02_number_methods\Soru5\bin\Debug\net8.0\Soru5.dll
+C:\Users\Olguhan\Desktop\HomeWorks_29_08_2024\02_number_methods\Soru5\bin\Debug\net8.0\Soru5.pdb
+C:\Users\Olguhan\Desktop\HomeWorks_29_08_2024\02_number_methods\Soru5\obj\Debug\net8.0\Soru5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Olguhan\Desktop\HomeWorks_29_08_2024\02_number_methods\Soru5\obj\Debug\net8.0\Soru5.AssemblyInfoInputs.cache
+C:\Users\Olguhan\Desktop\HomeWorks_29_08_2024\02_number_methods\Soru5\obj\Debug\net8.0\Soru5.AssemblyInfo.cs
+C:\Users\Olguhan\Desktop\HomeWorks_29_08_2024\02_number_methods\Soru5\obj\Debug\net8.0\Soru5.csproj.CoreCompileInputs.cache
+C:\Users\Olguhan\Desktop\HomeWorks_29_08_2024\02_number_methods\Soru5\obj\Debug\net8.0\Soru5.dll
+C:\Users\Olguhan\Desktop\HomeWorks_29_08_2024\02_number_methods\Soru5\obj\Debug\net8.0\refint\Soru5.dll
+C:\Users\Olguhan\Desktop\HomeWorks_29_08_2024\02_number_methods\Soru5\obj\Debug\net8.0\Soru5.pdb
+C:\Users\Olguhan\Desktop\HomeWorks_29_08_2024\02_number_methods\Soru5\obj\Debug\net8.0\Soru5.genruntimeconfig.cache
+C:\Users\Olguhan\Desktop\HomeWorks_29_08_2024\02_number_methods\Soru5\obj\Debug\net8.0\ref\Soru5.dll
