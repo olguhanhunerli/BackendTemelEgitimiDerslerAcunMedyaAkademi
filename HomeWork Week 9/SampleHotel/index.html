@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sample Hotel</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <div class="hero-section">
+            <div class="navbar">
+                <div class="logo">Hotel Sample</div>
+                <ul class="nav-menu">
+                    <li><a href="#home">Home</a></li>
+                    <li><a href="#about">About</a></li>
+                    <li><a href="#rooms">Rooms</a></li>
+                    <li><a href="#contact">Contact</a></li>
+                </ul>
+               
+            </div>
+            <div class="hero-text">
+                <h1>Welcome to Hotel Sample</h1>
+                <p>Experience the luxury and comfort at an affordable price.</p>
+                <a href="#rooms" class="cta-btn">Read </a>
+            </div>
+        </div>
+    </header>
+
+    <section id="about">
+        <h2>About Us</h2>
+        <p>Our hotel offers the best services and a relaxing environment to make your stay unforgettable. Whether you are here for business or leisure, we have everything you need.</p>
+    </section>
+
+    <section id="rooms">
+        <h2>Rooms & Suites</h2>
+        <div class="room-grid">
+            <div class="room">
+                <div class="room-placeholder"></div>
+                <h3>Deluxe Room</h3>
+                <p>Starting from $200/night</p>
+            </div>
+            <div class="room">
+                <div class="room-placeholder"></div>
+                <h3>Luxury Suite</h3>
+                <p>Starting from $350/night</p>
+            </div>
+            <div class="room">
+                <div class="room-placeholder"></div>
+                <h3>Standard Room</h3>
+                <p>Starting from $100/night</p>
+            </div>
+        </div>
+    </section>
+    <section id="contact">
+        <h2>Contact Us</h2>
+        <form class="contact-form" action="#" method="POST">
+            <div class="form-group">
+                <label for="name">Name</label>
+                <input type="text" id="name" name="name" required>
+            </div>
+            <div class="form-group">
+                <label for="email">Email</label>
+                <input type="email" id="email" name="email" required>
+            </div>
+            <div class="form-group">
+                <label for="message">Message</label>
+                <textarea id="message" name="message" rows="5" required></textarea>
+            </div>
+            <button type="submit" class="submit-btn">Send Message</button>
+        </form>
+    </section>
+
+
+    <footer>
+        <p>&copy; 2024 Hotel Sample. All Rights Reserved.</p>
+        <ul class="footer-menu">
+            <li><a href="#">Privacy Policy</a></li>
+            <li><a href="#">Terms & Conditions</a></li>
+        </ul>
+    </footer>
+</body>
+</html>
