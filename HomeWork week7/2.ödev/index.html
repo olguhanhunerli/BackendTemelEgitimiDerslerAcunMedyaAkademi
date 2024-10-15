@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Login Modal</title>
+</head>
+<body>
+
+    <!-- Login Butonu -->
+    <button id="loginBtn">Giriş Yap</button>
+
+    <!-- Modal -->
+    <div id="loginModal" class="modal">
+        <div class="modal-content">
+            <span class="close">&times;</span>
+            <h2>Login Form</h2>
+            <input type="text" id="username" placeholder="Kullanıcı Adı">
+            <input type="password" id="password" placeholder="Parola">
+            <button id="submitLogin">Giriş Yap</button>
+        </div>
+    </div>
+
+    <!-- Sonuç Gösterimi -->
+    <div id="result"></div>
+
+    <script src="script.js"></script>
+</body>
+</html>

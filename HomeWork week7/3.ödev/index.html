@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Basit Web Sitesi</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <nav>
+        <ul>
+            <li><a href="#home">Ana Sayfa</a></li>
+            <li><a href="#works">Çalışmalar</a></li>
+            <li><a href="#about">Hakkımda</a></li>
+            <li><a href="#contact">İletişim</a></li>
+        </ul>
+    </nav>
+
+    <section id="home">
+        <h1>Ana Sayfa</h1>
+        <p>Web teknolojilerinde ne kadar ileri olduğunuzu burada gösterebilirsiniz.</p>
+    </section>
+
+    <section id="works">
+        <h1>Çalışmalar</h1>
+        <div class="card-container">
+            <div class="card">
+                <h2>E-ticaret Web Sitesi</h2>
+                <p>Modern bir e-ticaret sitesi geliştirme. Kullanıcı dostu arayüz, ürün yönetimi ve ödeme sistemi içerir.</p>
+            </div>
+            <div class="card">
+                <h2>Blog Uygulaması</h2>
+                <p>Basit ve şık bir blog platformu. İçerik yönetimi, yorumlar ve kullanıcı kaydı özelliklerini içerir.</p>
+            </div>
+        </div>
+    </section>
+
+    <section id="about">
+        <h1>Hakkımda</h1>
+        <p>Bu bölümde kişisel bilgilere yer verebilirsiniz. Örneğin, eğitim geçmişiniz ve çalışma deneyimleriniz.</p>
+    </section>
+
+    <section id="contact">
+        <h1>İletişim</h1>
+        <form action="#" method="post">
+            <label for="name">İsim:</label>
+            <input type="text" id="name" name="name" required>
+            <label for="email">Email:</label>
+            <input type="email" id="email" name="email" required>
+            <label for="message">Mesaj:</label>
+            <textarea id="message" name="message" rows="4" required></textarea>
+            <button type="submit">Gönder</button>
+        </form>
+    </section>
+
+</body>
+</html>
