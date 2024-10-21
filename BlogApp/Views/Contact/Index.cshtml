@@ -1,0 +1,37 @@
+@{
+    ViewData["Title"] = "Index";
+}
+@model BlogApp.Models.ContactFormModel;
+
+<div class="container mt-5">
+    <h2>İletişim</h2>
+    <form asp-action="Index" method="post" class="needs-validation" novalidate>
+        <div class="form-group">
+            <label for="FullName">Ad Soyad</label>
+            <input type="text" class="form-control" id="FullName" name="FullName" asp-for="FullName" placeholder="Ad Soyad" required>
+            <span asp-validation-for="FullName" class="text-danger"></span>
+        </div>
+        
+        <div class="form-group">
+            <label for="Email">Email</label>
+            <input type="email" class="form-control" id="Email" name="Email" asp-for="Email" placeholder="Email" required>
+            <span asp-validation-for="Email" class="text-danger"></span>
+        </div>
+        
+        <div class="form-group">
+            <label for="Subject">Konu</label>
+            <input type="text" class="form-control" id="Subject" name="Subject" asp-for="Subject" placeholder="Konu" required>
+            <span asp-validation-for="Subject" class="text-danger"></span>
+        </div>
+        
+        <div class="form-group">
+            <label for="Message">Mesaj</label>
+            <textarea class="form-control" id="Message" name="Message" asp-for="Message" rows="5" required></textarea>
+            <span asp-validation-for="Message" class="text-danger"></span>
+        </div>
+        
+        <button type="submit" class="btn btn-primary">Gönder</button>
+    </form>
+</div>
+
+

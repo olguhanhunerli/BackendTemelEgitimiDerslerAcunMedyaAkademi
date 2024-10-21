@@ -1,0 +1,16 @@
+@{
+    ViewData["Title"] = "Index";
+    var kategoriler = ViewBag.Category as List<string>;
+}
+<div class="container mt-5">
+    <div class="row justify-content-center">
+        <div class="col-md-6 text-center">
+            @foreach (var kategori in kategoriler)
+            {
+                <div class="mb-3">
+                    <h4>@kategori</h4>
+                </div>
+            }
+        </div>
+    </div>
+</div>

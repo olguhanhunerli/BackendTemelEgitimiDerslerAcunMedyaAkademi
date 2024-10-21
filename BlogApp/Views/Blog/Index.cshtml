@@ -1,0 +1,21 @@
+@{
+    ViewData["Title"] = "Index";
+}
+@model List<BlogApp.Models.Blog>
+
+<div class="container mt-5">
+    <div class="row">
+        @foreach (var blog in Model)
+        {
+            <div class="col-md-4 mb-4">
+                <div class="card">
+                    <img src="@blog.Images" class="card-img-top" alt="@blog.Title">
+                    <div class="card-body">
+                        <h5 class="card-title">@blog.Title</h5>
+                        <p class="card-text">@blog.Summary</p>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</div>
